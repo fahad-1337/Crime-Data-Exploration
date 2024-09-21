@@ -38,7 +38,7 @@ Libraries like matplotlib and seaborn were imported to prepare for data visualiz
 
 
 __Libraries Used__
-pandas: For data manipulation and cleaning.
-numpy: For numerical operations.
-matplotlib: For basic plotting and visualizations.
-seaborn: For advanced statistical data visualization.
+pandas: For data manipulation and cleaning.  
+numpy: For numerical operations.  
+matplotlib: For basic plotting and visualizations.  
+seaborn: For advanced statistical data visualization.  
