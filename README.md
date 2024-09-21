@@ -37,7 +37,7 @@ Answered key questions like when crime rates were highest, visualizing findings 
 Libraries like matplotlib and seaborn were imported to prepare for data visualization, which will be used to analyze trends such as crime rates by year, month, and location.
 
 
-__Libraries Used__
+__Libraries Used__  
 pandas: For data manipulation and cleaning.  
 numpy: For numerical operations.  
 matplotlib: For basic plotting and visualizations.  
