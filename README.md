@@ -4,6 +4,7 @@ Project Overview
 This project involves analyzing crime data using Python, focusing on data cleaning, exploration, and visualization. The dataset contains over 319,000 crime records, including details such as the incident number, offense code, district, date, and geographical coordinates. The objective of this project is to clean the dataset, handle missing values, and prepare it for analysis. The code uses libraries such as pandas, numpy, matplotlib, and seaborn to perform various tasks.
 
 __Data Details__
+
 The dataset is stored in a CSV file named crime.csv which was obtained from kaggle. 
 
 __Steps Taken__
